@@ -3,7 +3,7 @@ MATLAB
 
 Matlab code for coastal fluid mechanics
 
-Files written by Susan K Willis, Doctoral Candidate, UC Berkeley, susan.k.willis@berkeley.edu. Please contact with any questions.
+Files written by Susan K Willis, PhD, while writing dissertation at UC Berkeley, susan.k.willis@alum.berkeley.edu. Please contact with any questions.
 
 Files are created in MATLAB 2012b, and common functions included in statistical toolboxes on MATLAB are used, as well as those widely available on the MATLAB File Exchange. 
 
